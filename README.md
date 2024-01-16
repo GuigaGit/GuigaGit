@@ -6,4 +6,4 @@
 - 🌱 Learning Machine Learning Alghorithms to processing Music for my Master Degree using Python and Octave 
   ![image](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 
-- 🎸 Gamer, Bassist and Chess player in free time!
+- 🎮🎸♟️ Gamer, Bassist and Chess player in free time!
