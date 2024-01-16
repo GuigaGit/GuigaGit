@@ -1,6 +1,6 @@
 ### Hello there 👋 Guilherme here!
 
-- 🔭 Currently working as Analyst of Electronic Systems in Pullup developing embedded systems using STM32 uC 
+- 🔭 Currently working as Systems Development Analyst in Pullup developing Electronic Embedded Systems 
   ![image](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 - 🌱 Learning Machine Learning Alghorithms to processing Music for my Master Degree using Python and Octave 
